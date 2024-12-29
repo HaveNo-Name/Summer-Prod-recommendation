@@ -43,7 +43,7 @@ This repository contains the code for an **Amazon Product Recommendation System*
 5. Open the app in your browser by navigating to the URL provided by Streamlit (usually `http://localhost:8501`).
 
 ## Deployment
-The app is deployed on **Streamlit Community Cloud**. You can visit it [here](https://streamlit.app/your-app-link).
+The app is deployed on **Streamlit Community Cloud**. .
 
 To deploy your version:
 1. Create a Streamlit account and connect it to your GitHub.
